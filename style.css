@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#c1 {
+    border: 3px solid black;
+    margin: 40px;
+}
